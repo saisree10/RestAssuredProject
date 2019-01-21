@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11321" started-at="2019-01-21T05:17:54Z" finished-at="2019-01-21T05:18:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11321" started-at="2019-01-21T05:17:54Z" finished-at="2019-01-21T05:18:05Z">
+      <class name="com.reqres.test.GetDataAPITest">
+        <test-method status="PASS" signature="testContentType()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testContentType" duration-ms="3274" started-at="2019-01-21T05:17:54Z" finished-at="2019-01-21T05:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContentType -->
+        <test-method status="PASS" signature="testDelayedResponse()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testDelayedResponse" duration-ms="3733" started-at="2019-01-21T05:17:57Z" finished-at="2019-01-21T05:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelayedResponse -->
+        <test-method status="PASS" signature="testEqualToFunction_MultipleContent()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testEqualToFunction_MultipleContent" duration-ms="1159" started-at="2019-01-21T05:18:01Z" finished-at="2019-01-21T05:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEqualToFunction_MultipleContent -->
+        <test-method status="PASS" signature="testEqualToFunction_SingleContent()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testEqualToFunction_SingleContent" duration-ms="530" started-at="2019-01-21T05:18:02Z" finished-at="2019-01-21T05:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEqualToFunction_SingleContent -->
+        <test-method status="PASS" signature="testGetDetails()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testGetDetails" duration-ms="491" started-at="2019-01-21T05:18:03Z" finished-at="2019-01-21T05:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetDetails -->
+        <test-method status="PASS" signature="testLoggingData()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testLoggingData" duration-ms="578" started-at="2019-01-21T05:18:03Z" finished-at="2019-01-21T05:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoggingData -->
+        <test-method status="PASS" signature="testParametersAndHeaders()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testParametersAndHeaders" duration-ms="511" started-at="2019-01-21T05:18:04Z" finished-at="2019-01-21T05:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParametersAndHeaders -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="testStatusCode" duration-ms="481" started-at="2019-01-21T05:18:05Z" finished-at="2019-01-21T05:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method status="PASS" signature="test_RequestInvalidNoOfUsers()[pri:0, instance:com.reqres.test.GetDataAPITest@610694f1]" name="test_RequestInvalidNoOfUsers" duration-ms="497" started-at="2019-01-21T05:18:05Z" finished-at="2019-01-21T05:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_RequestInvalidNoOfUsers -->
+      </class> <!-- com.reqres.test.GetDataAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
