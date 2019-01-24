@@ -1,5 +1,5 @@
 # RestAssuredProject
 API automation using RestAssured library
 
-Technology: Java
+Technology: Java,
 Library used: RestAssured 
